@@ -106,8 +106,8 @@ export default {
   },
 
   metaInfo() {
-    const title = 'Great Documentation starts here';
-    const description = 'DOCC is a starter theme with instant search and dark mode for writing great technical documentation. Based on Gridsome!';
+    const title = 'cloudhooks';
+    const description = 'A serverless platform for webhooks on Shopify';
 
     return {
       title: title,
