@@ -93,7 +93,3 @@ export default {
   }
 }
 </script>
-
-<style>
-@import 'prism-themes/themes/prism-material-oceanic.css';
-</style>
